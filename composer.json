@@ -1,0 +1,13 @@
+{
+    "name": "seiyaan/trade",
+    "authors": [
+        {
+            "name": "seiyaan",
+            "email": "biz@seiyaan.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^4.1",
+        "abraham/twitteroauth": "^2.0"
+    }
+}
